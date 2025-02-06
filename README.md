@@ -33,10 +33,10 @@ Adjuntada en el repo
 
 ## Funcionalidades de la App
 - Registro e inicio de sesión.
-- Publicación y edición de recetas.
-- Comentarios y reacciones en recetas.
-- Búsqueda y filtrado de recetas.
-- Seguimiento de otros usuarios.
-- Notificaciones sobre actividad en la plataforma.
+- Publicación y edición.
+- Comentarios y likes.
+- Búsqueda y filtrado con API.
+- Seguimiento de otros usuarios y su perfil.
+- Notificaciones push.
 
 
