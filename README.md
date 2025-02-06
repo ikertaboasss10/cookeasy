@@ -1,7 +1,7 @@
 # cookeasy
 # red social de recetas
 
-## 📖 Explicación de la idea del proyecto
+## Explicación de la idea del proyecto
 Nuestra aplicación es una red social enfocada en compartir recetas de cocina. Los usuarios podrán publicar sus recetas, interactuar con otras personas mediante comentarios y reacciones, y ver nuevas ideas de la comunidad para aprender a cocinar.
 
 ## Nuestros objetivos principales
@@ -22,10 +22,10 @@ Nuestra aplicación es una red social enfocada en compartir recetas de cocina. L
 (https://www.figma.com/design/ZdO2CUykaK0XlmhgGwAEuB/MOOKUP-COOKEASY-(INGL%C3%89S)?node-id=221-21&t=D4iSAPBsNXHMjaUq-1)
 
 ## 🎨 Paleta de Colores
-- 🎨 #F4A261 (Naranja)
-- 🎨 #2A9D8F (Verde)
-- 🎨 #264653 (Azul oscuro)
-- 🎨 #E9C46A (Amarillo)
+- 🎨 #4D433A (Gris)
+- 🎨 #FFFFFF (Blanco)
+- 🎨 #000000 (Gris)
+- 🎨 #EBB22F (Amarillo)
 
 ## Logo
 Adjuntada en el repo
