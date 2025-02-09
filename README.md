@@ -30,6 +30,9 @@ Nuestra aplicación web es una red social enfocada en compartir recetas de cocin
 ## Logo
 Adjuntada en el repo
 
+## Diagrama
+https://lucid.app/lucidchart/40b61897-6069-4781-9f77-a6cb1e2f5e03/edit?viewport_loc=231%2C-768%2C1845%2C2520%2C0_0&invitationId=inv_f6ecc1f3-75c7-4d72-9e2f-c71b5801d2d6
+
 
 ## Funcionalidades de la App
 - Registro e inicio de sesión.
