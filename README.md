@@ -2,7 +2,7 @@
 # red social de recetas
 
 ## Explicación de la idea del proyecto
-Nuestra aplicación es una red social enfocada en compartir recetas de cocina. Los usuarios podrán publicar sus recetas, interactuar con otras personas mediante comentarios y reacciones, y ver nuevas ideas de la comunidad para aprender a cocinar.
+Nuestra aplicación web es una red social enfocada en compartir recetas de cocina. Los usuarios podrán publicar sus recetas, interactuar con otras personas mediante comentarios y reacciones, y ver nuevas ideas de la comunidad para aprender a cocinar.
 
 ## Nuestros objetivos principales
 - Facilitar el intercambio de recetas entre usuarios (post).
@@ -11,11 +11,11 @@ Nuestra aplicación es una red social enfocada en compartir recetas de cocina. L
 - Ofrecer una app avanzada y con una temática futurista.
 
 ## Tecnologías usadas
-- **Frontend:** Flutter (Dart)
-- **Backend:** Scripts.js 
-- **Base de Datos:** MongoDB
+- **Frontend:** HTML, CSS, JS y plantilla Bootstrap (Visual Studio Code)
+- **Backend:** Php 
+- **Base de Datos:** MySql
 - **Autenticación:** Firebase 
-- **Hosting:** Vercel 
+- **Hosting:** Público 
 - **Control de Versiones:** GitHub (Repositorio público)
 
 ## Mockup
