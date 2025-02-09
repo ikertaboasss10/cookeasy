@@ -21,10 +21,10 @@ Nuestra aplicación web es una red social enfocada en compartir recetas de cocin
 ## Mockup
 (https://www.figma.com/design/ZdO2CUykaK0XlmhgGwAEuB/MOOKUP-COOKEASY-(INGL%C3%89S)?node-id=221-21&t=D4iSAPBsNXHMjaUq-1)
 
-## 🎨 Paleta de Colores
-- 🎨 #4D433A (Gris)
+## 🎨 Paleta de colores
+- 🎨 #7B3F00 (Marrón)
 - 🎨 #FFFFFF (Blanco)
-- 🎨 #000000 (Gris)
+- 🎨 #000000 (Negro)
 - 🎨 #EBB22F (Amarillo)
 
 ## Logo
